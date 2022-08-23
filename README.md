@@ -1,4 +1,4 @@
-currently learning flutter..
+currently learning flutter
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuukimiyashita&theme=tokyonight)
 
